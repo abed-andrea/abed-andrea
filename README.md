@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrea Abed
-- 🌱 I’m a recent Computer Science Graduate from San Diego State University
+- 🌱 I’m a recent Computer Science graduate from San Diego State University
 - 👀 I'm currently exploring different areas in tech and building my skills through personal projects and continuous learning.
 
 Thanks for stopping by!
